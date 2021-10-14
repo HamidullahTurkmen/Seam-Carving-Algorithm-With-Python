@@ -1,0 +1,2 @@
+# Seam-Carving-Algorithm-With-Python
+Seam carving, also known as content-aware image resizing, is one of the methods for adjusting the image size such that the content of the image will be preserved. Image resizing is used to handle different resolutions between modules of various device screens and applications. It can also be used intentionally to corrupt or remove the original content of the image. Therefore, it is of great importance to detect external interference with the images.
